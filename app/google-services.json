@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84308920315",
+    "project_id": "datapersistenceapp-933ca",
+    "storage_bucket": "datapersistenceapp-933ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84308920315:android:07e7b103a59636c088ed5e",
+        "android_client_info": {
+          "package_name": "com.example.DataPersistenceApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASKQg65K8I5O9LMNUpeQwRH4-uIahytNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
